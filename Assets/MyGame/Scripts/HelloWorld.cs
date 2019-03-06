@@ -12,9 +12,9 @@ public class HelloWorld : MonoBehaviour
 	// Use this for initialization
 	void Start ()
     {
-        string message = "Hello World";
+        string helloWorldText = "Hello World";
 
-        print(message);
+        print(helloWorldText);
       
 	}	
 	
